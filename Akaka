@@ -5,9 +5,9 @@ getgenv().Aimbot.FOVSettings.Sides = 15
 getgenv().Aimbot.FOVSettings.Visible = false
 getgenv().Aimbot.FOVSettings.Thickness = 2
 
-local combat = library:Window("Combat by Neverwin.lua")
-local visuals = library:Window("Visuals by Neverwin.lua")
-local misc = library:Window("Misc by Neverwin.lua")
+local combat = library:Window("Combat by Neverlose.net")
+local visuals = library:Window("Visuals by Neverlose.net")
+local misc = library:Window("Misc by Neverlose.net")
 local InfiniteJump = false
 local g_mod = false
 
